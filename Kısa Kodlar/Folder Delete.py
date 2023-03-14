@@ -1,7 +1,7 @@
 import os
 import shutil
 
-klasor_yolu = ''
+klasor_yolu = 'c:/filepath'
 
 try:
     shutil.rmtree(klasor_yolu)
