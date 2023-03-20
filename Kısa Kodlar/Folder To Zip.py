@@ -11,5 +11,5 @@ def zip_folder(folder_path, output_path):
 
 # Klasörü zip dosyası olarak sıkıştırın
 folder_path = "/content/gdrive/MyDrive/Results"
-output_path = "/content/gdrive/MyDrive/Results.zip"
+output_path = "/content/zip/Results.zip"
 zip_folder(folder_path, output_path)
